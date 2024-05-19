@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-355&nbsp;/&nbsp;445&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Trototoo/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-364&nbsp;/&nbsp;462&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Trototoo/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-355&nbsp;/&nbsp;445&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Trototoo/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-364&nbsp;/&nbsp;462&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Trototoo/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Trototoo/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-355&nbsp;/&nbsp;445&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/Trototoo/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-364&nbsp;/&nbsp;462&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -37,8 +37,8 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `12` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `8` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `2` | `11` |
-| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `0` | `17` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `3` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `1` | `17` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `0` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `0` | `9` |
@@ -58,9 +58,9 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `24` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `22` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `13` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `14` | `36` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `10` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `4` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `10` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
@@ -125,7 +125,7 @@ Total: you have `0` of `98` skills, `98` to be upgraded, and `0` above needed
 | Web Locks API | 🤷 unknown | ⟶  | 👂 heard |
 | Revealing constructor | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `6` of `50` skills, `44` to be upgraded, and `4` above needed
+Total: you have `6` of `50` skills, `44` to be upgraded, and `5` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -211,9 +211,6 @@ Total: you have `2` of `37` skills, `35` to be upgraded, and `1` above needed
 | Async Pool | 🤷 unknown | ⟶  | 🖐️ used |
 | Async Queue | 🤷 unknown | ⟶  | 🖐️ used |
 | Async Collector | 🤷 unknown | ⟶  | 🖐️ used |
-| Semaphore | 👂 heard | ⟶  | 🖐️ used |
-| Mutex | 👂 heard | ⟶  | 🎓 known |
-| Spin Lock | 🤷 unknown | ⟶  | 🎓 known |
 | Timers | 🤷 unknown | ⟶  | 🖐️ used |
 | `setImmediate` | 🤷 unknown | ⟶  | 🖐️ used |
 | `nextTick` | 🤷 unknown | ⟶  | 🖐️ used |
@@ -221,7 +218,6 @@ Total: you have `2` of `37` skills, `35` to be upgraded, and `1` above needed
 | AbortSignal | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise unhandled rejection | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise double resolve | 🤷 unknown | ⟶  | 🖐️ used |
-| Atomics | 🤷 unknown | ⟶  | 🎓 known |
 | High resolution clock | 🤷 unknown | ⟶  | 🎓 known |
 | Callback hell | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise hell | 🤷 unknown | ⟶  | 🖐️ used |
@@ -242,7 +238,7 @@ Total: you have `2` of `37` skills, `35` to be upgraded, and `1` above needed
 | Channel API | 🤷 unknown | ⟶  | 🎓 known |
 | Revealing constructor | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `3` of `75` skills, `72` to be upgraded, and `2` above needed
+Total: you have `7` of `75` skills, `68` to be upgraded, and `6` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
