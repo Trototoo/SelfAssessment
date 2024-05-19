@@ -1,25 +1,25 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🙋 explained
-  - Imperative programming: 🙋 explained
-  - Structured programming: 🙋 explained
-  - Non-structured programming: 🙋 explained
-  - Functional programming: 🙋 explained
-  - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 🙋 explained
-  - Object-based programming: 🙋 explained
-  - Generic programming: 🙋 explained
-  - Concurrent computing: 🎓 known
-  - Asynchronous programming: 🎓 known
-  - Parallel programming: 👂 heard
-  - Reactive programming: 👂 heard
+  - Procedural programming e
+  - Imperative programming e
+  - Structured programming e
+  - Non-structured programming e
+  - Functional programming e
+  - Prototype-based programming k
+  - Object-oriented programming e
+  - Object-based programming e
+  - Generic programming e
+  - Concurrent computing e
+  - Asynchronous programming k
+  - Parallel programming e
+  - Reactive programming k
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages: 👂 heard
-  - Multi-paradigm programming: 🎓 known
-  - Metaprogramming: 👂 heard
-  - Actor model: 👂 heard
+  - Domain-specific languages k
+  - Multi-paradigm programming k
+  - Metaprogramming h
+  - Actor model h
   - Lambda calculus
   - Black box
   - Information hiding
@@ -27,27 +27,27 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: 🙋 explained
-  - Operator `new`: 🙋 explained
-  - Static method: 🙋 explained
-  - Method: 🙋 explained
-  - Async method: 🙋 explained
-  - Getters, Setters: 🙋 explained
-  - Public fields: 🙋 explained
-  - Private fields: 🙋 explained
-  - Field declarations: 🙋 explained
-  - Inheritance: 🙋 explained
-  - Parent class: 🙋 explained
-  - Polymorphism: 🙋 explained
-  - Abstract class: 🙋 explained
-  - Interface: 🙋 explained
-  - Encapsulation: 🙋 explained
-  - Hidden class: 🙋 explained
-  - Object form: 🙋 explained
-  - Instance: 🙋 explained
-  - Introspection: 🙋 explained
-  - Reflection: 👂 heard
-  - The diamond problem: 👂 heard
+  - Constructor e
+  - Operator `new` e
+  - Static method e
+  - Method e
+  - Async method e
+  - Getters, Setters e
+  - Public fields e
+  - Private fields e
+  - Field declarations e
+  - Inheritance e
+  - Parent class e
+  - Polymorphism e
+  - Abstract class e
+  - Interface e
+  - Encapsulation e
+  - Hidden class e
+  - Object form e
+  - Instance e
+  - Introspection e
+  - Reflection h
+  - The diamond problem h
 - GRASP
   - Information expert
   - Creator
@@ -58,34 +58,34 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP): 🙋 explained
-  - Open–closed principle (OCP): 🙋 explained
-  - Liskov substitution principle (LSP): 🙋 explained
-  - Interface segregation principle (ISP): 🙋 explained
-  - Dependency inversion principle (DIP): 🙋 explained
+  - Single-responsibility principle (SRP) e
+  - Open–closed principle (OCP) e
+  - Liskov substitution principle (LSP) e
+  - Interface segregation principle (ISP) e
+  - Dependency inversion principle (DIP) e
 - Patterns
-  - Singleton: 🙋 explained
-  - Factory Method: 🙋 explained
-  - Abstract Factory: 👂 heard
-  - Adapter: 🙋 explained
-  - Observer: 🎓 known
-  - Strategy: 👂 heard
-  - Facade: 🎓 known
-  - Proxy: 🎓 known
+  - Singleton e
+  - Factory Method e
+  - Abstract Factory h
+  - Adapter e
+  - Observer k
+  - Strategy h
+  - Facade k
+  - Proxy k
   - Chain of Responsibility
-  - Command: 👂 heard
-  - Iterator: 👂 heard
-  - State: 👂 heard
-  - Bridge: 🎓 known
-  - Builder: 🎓 known
-  - Prototype: 👂 heard
-  - Composite: 👂 heard
-  - Decorator: 🎓 known
-  - Flyweight: 👂 heard
-  - Mediator: 👂 heard
-  - Memento: 👂 heard
-  - Template Method: 👂 heard
-  - Visitor: 👂 heard
-  - Reactor: 👂 heard
-  - Active object: 👂 heard
-  - Delegation: 👂 heard
+  - Command k
+  - Iterator k
+  - State k
+  - Bridge k
+  - Builder k
+  - Prototype h
+  - Composite h
+  - Decorator k
+  - Flyweight h
+  - Mediator h
+  - Memento h
+  - Template Method h
+  - Visitor k
+  - Reactor h
+  - Active object h
+  - Delegation k
