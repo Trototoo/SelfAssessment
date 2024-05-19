@@ -1,0 +1,198 @@
+## Kotlin
+- Language
+  - Variables e
+  - Primitive types e
+  - Unsigned types e
+  - Nullable types e
+  - Non-nullable types e
+  - `String` e
+  - `Any` e
+  - `Unit` e
+  - Mapping to Java types e
+  - Arithmetic operators e
+  - Boolean operators e
+  - Complex conditions e
+  - Conditional operators e
+  - Elvis operator `?:` e
+  - Safe call operator `?.` e
+  - `for` loop e
+  - `while...do` loop e
+  - `do...while` loop e
+  - `forEach{...}` e
+  - `forEachInIndexed{...}` h
+  - `Arrays<T>` e
+  - Primitive arrays e
+  - `stdout` e
+  - `stderr` e
+  - Breakpoints e
+  - Step-by-step running e
+  - Exceptions e
+  - Errors e
+  - `try...catch` e
+  - Nothing type e
+  - `List` e
+  - `MutableList` e
+  - `Set` e
+  - `MutableSet` e
+  - `Map` e
+  - `MutableMap` e
+  - `Collection` e
+  - `Iterable` e
+  - `Ranges` e
+  - `Sequences` h
+  - Arguments e
+  - Return type e
+  - Function signature e
+  - `varargs` e
+  - Function overloading e
+  - Extension functions e
+  - Inline functions e
+  - Infix functions e
+  - Recursive functions e
+  - StackOverFlowError e
+  - `Tailrec` functions e
+  - Constructors e
+  - Initializers e
+  - Properties e
+  - Getters & Setters e
+  - Methods e
+  - `this` e
+  - Objects e
+  - Companion objects e
+  - References e
+  - Mutable & immutable classes e
+  - Enum classes e
+  - Class `Any` e
+  - Operator overloading h
+  - Data classes e
+  - Packages e
+  - Type aliases e
+  - Import aliases e
+  - Value classes e
+
+- OOP
+  - Abstract classes e
+  - Abstract method e
+  - Abstract property e
+  - Interface e
+  - Finals
+  - Closed class e
+  - Open class  e
+  - Open method e
+  - Open property e
+  - Nested classes
+  - Nested class e
+  - Inner class e
+  - Visibility modifiers
+  - `public` e
+  - `protected` e
+  - `internal` e
+  - `private` e
+  - Sealed classes
+  - Sealed class e
+  - Sealed interface e
+  - Type casting
+  - Unsafe class operator `as` e
+  - Safe class operator `as?` e
+  - Type check operators `is` & `!is` e
+  - Smart cast e
+  - Delegation (operator `by`)
+  - `lazy` e
+  - `observable`
+  - `vetoable`
+  - Delegate to other property
+  - Delegate to map collection
+  - Custom delegates
+  - Delegation pattern
+
+- Generics
+  - Class with type arguments e
+  - Method with type arguments e
+  - Type erasure h
+  - Upper bound e
+  - Multiple bounds `where` k
+  - Covariant type args `out` k
+  - Covariant type args `in` k
+  - Input projection `in`
+  - Output projection `out`
+  - Star-projection
+  - Reified functions
+
+- Functional programming
+  - High-order functions  e
+  - Lambda declaration e
+  - Lambda instantiation e
+  - Invoking lambdas e
+  - Functional Interfaces e
+  - Callable references e
+  - Lambdas in inline-functions
+  - `noinline`
+  - `crossinline`
+  - `with` u
+  - `let` u
+  - `run` u
+  - `apply` u
+  - `also` u
+  - `takeif` u
+  - Custom scope functions
+
+- Input\Output Streams
+  - `readLine` u
+  - `readIn` u
+  - `readInOrNull` u
+  - `Scanner` u
+  - `ByteArrayOutputStream` u
+  - `ByteArrayInputStream` u
+  - `DataOutputStream` u
+  - `DataInputStream` u
+  - `use{...}` function u
+  - Readers & Writers
+  - `OutputStreamWriter` u
+  - `InputStreamReader` u
+  - Serialization u
+  - Working with files
+  - `BufferedOutputStream` u
+  - `BufferedInputStream` u
+  - `BufferedReader` u
+  - `BufferedWriter` u
+  - `File` u
+  - `RandomAccessFile` u
+  - `FileTreeWalk` u
+  - `FileInputStream` u
+  - `FileOutputStream` u
+
+- Async programming
+  - `Thread` u
+  - `ExecutorServices` h
+  - Synchronizations k
+  - Atomic types h
+  - Atomic operations h
+  - Dead locks h
+  - Race conditions h
+  - Live locks h
+  - Starvation h
+  - Synchronized collections h
+  - Kotlin Coroutines
+  - `runBlocking`
+  - `launch`
+  - `async`
+  - `suspend` functions
+  - Structures concurrency
+  - Coroutine Context
+  - `Dispatcher`
+  - `Job`
+  - `Name`
+  - `CorutineExceptionHandler`
+  - Coroutine Scope
+  - Cancellation & Timeouts
+  - `withContext{...}` function
+  - `suspendCancellableCoroutine{...}` function
+  - Kotlin Flows
+  - Cold & Hot Flows
+  - Intermediate & terminal operators
+  - `flowOf`
+  - `flow{...}`
+  - `callbackFlow{...}`
+  - Flow cancellation
+  - Combining multiple flows
+  - `StateFlow` & `SharedFlow`
