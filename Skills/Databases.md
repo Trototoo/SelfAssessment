@@ -1,76 +1,76 @@
 ## Databases
 
 - Theory and concepts
-  - Data types e
-  - Performance tuning h
-  - Migrations h
-  - Schema versioning h
-  - Backup and recovery h
-  - Database scalability h
-  - Relational databases e
-  - Key-value store k
-  - Tuple store k
-  - Graph databases h
-  - Object databases h
-  - Column databases h
-  - Navigational databases h
-  - Hierarchical databases h
-  - In-memory databases k
-  - Inverted index h
-  - Data control language (DCL) k
-  - Data definition language (DDL) k
-  - Data manipulation language (DML) k
-  - Data query language (DQL) k
+  - Data types: 🙋 explained
+  - Performance tuning: 👂 heard
+  - Migrations: 👂 heard
+  - Schema versioning: 👂 heard
+  - Backup and recovery: 👂 heard
+  - Database scalability: 👂 heard
+  - Relational databases: 🙋 explained
+  - Key-value store: 🎓 known
+  - Tuple store: 🎓 known
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
+  - Column databases: 👂 heard
+  - Navigational databases: 👂 heard
+  - Hierarchical databases: 👂 heard
+  - In-memory databases: 🎓 known
+  - Inverted index: 👂 heard
+  - Data control language (DCL): 🎓 known
+  - Data definition language (DDL): 🎓 known
+  - Data manipulation language (DML): 🎓 known
+  - Data query language (DQL): 🎓 known
 - Relational
-  - Entity-Relationship Diagram k
-  - Normal forms h
-  - Indexing h
-  - Primary keys e
-  - Foreign keys e
-  - Transactions e
-  - Views h
-  - Subqueries h
-  - Stored procedures h
-  - SQL functions h
-  - Materialized views h
-  - Replications h
-  - Virtualization h
+  - Entity-Relationship Diagram: 🎓 known
+  - Normal forms: 👂 heard
+  - Indexing: 👂 heard
+  - Primary keys: 🙋 explained
+  - Foreign keys: 🙋 explained
+  - Transactions: 🙋 explained
+  - Views: 👂 heard
+  - Subqueries: 👂 heard
+  - Stored procedures: 👂 heard
+  - SQL functions: 👂 heard
+  - Materialized views: 👂 heard
+  - Replications: 👂 heard
+  - Virtualization: 👂 heard
 - SQL
-  - `SELECT` u
-  - `INSERT` u
-  - `UPDATE` u
-  - `DELETE` u
-  - `LIMIT` h
-  - `OFFSET` h
-  - `ORDER BY` u
-  - `GROUP BY` h
-  - `HAVING` h
-  - `EXISTS` u
-  - `JOIN` u
-  - `INNER JOIN` h
-  - `LEFT JOIN` h
-  - `RIGHT JOIN` h
-  - `UNION` h
-  - `DISTINCT` h
-  - `WHERE` u
-  - `LIKE` h
-  - `IN` u
-  - `BETWEEN` h
-  - `CREATE TABLE` u
-  - `ALTER TABLE` u
-  - `DROP TABLE` u
-  - `PRIMARY KEY` u
-  - `FOREIGN KEY` u
-  - `CHECK` h
-  - `DEFAULT` h
-  - `INDEX` h
-  - `UNIQUE` u
-  - `GRANT` h
-  - `REVOKE` h
-  - `DENY` h
-  - `EXPLAIN` h
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 👂 heard
+  - `OFFSET`: 👂 heard
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 👂 heard
+  - `HAVING`: 👂 heard
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 👂 heard
+  - `LEFT JOIN`: 👂 heard
+  - `RIGHT JOIN`: 👂 heard
+  - `UNION`: 👂 heard
+  - `DISTINCT`: 👂 heard
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 👂 heard
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 👂 heard
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
+  - `CHECK`: 👂 heard
+  - `DEFAULT`: 👂 heard
+  - `INDEX`: 👂 heard
+  - `UNIQUE`: 🖐️ used
+  - `GRANT`: 👂 heard
+  - `REVOKE`: 👂 heard
+  - `DENY`: 👂 heard
+  - `EXPLAIN`: 👂 heard
 - Engines
-  - PostgreSQL u
+  - PostgreSQL: 🖐️ used
   - Oracle
   - MySQL
   - MariaDB
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data h
+  - Big data: 👂 heard
   - Data analysis
   - AI tools
   - Cloud databases
-  - Data Visualization h
+  - Data Visualization: 👂 heard
