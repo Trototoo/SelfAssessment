@@ -6,17 +6,17 @@
   - Structured programming: 🙋 explained
   - Non-structured programming: 🙋 explained
   - Functional programming: 🙋 explained
-  - Prototype-based programming: 👂 heard
+  - Prototype-based programming: 🎓 known
   - Object-oriented programming: 🙋 explained
   - Object-based programming: 🙋 explained
   - Generic programming: 🙋 explained
-  - Concurrent computing: 🎓 known
+  - Concurrent computing: 🙋 explained
   - Asynchronous programming: 🎓 known
-  - Parallel programming: 👂 heard
-  - Reactive programming: 👂 heard
+  - Parallel programming: 🙋 explained
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages: 👂 heard
+  - Domain-specific languages: 🎓 known
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
@@ -73,9 +73,9 @@
   - Facade: 🎓 known
   - Proxy: 🎓 known
   - Chain of Responsibility
-  - Command: 👂 heard
-  - Iterator: 👂 heard
-  - State: 👂 heard
+  - Command: 🎓 known
+  - Iterator: 🎓 known
+  - State: 🎓 known
   - Bridge: 🎓 known
   - Builder: 🎓 known
   - Prototype: 👂 heard
@@ -85,7 +85,7 @@
   - Mediator: 👂 heard
   - Memento: 👂 heard
   - Template Method: 👂 heard
-  - Visitor: 👂 heard
+  - Visitor: 🎓 known
   - Reactor: 👂 heard
   - Active object: 👂 heard
-  - Delegation: 👂 heard
+  - Delegation: 🎓 known

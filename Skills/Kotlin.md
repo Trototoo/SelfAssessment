@@ -19,7 +19,7 @@
   - `while...do` loop: 🙋 explained
   - `do...while` loop: 🙋 explained
   - `forEach{...}`: 🙋 explained
-  - `forEachInIndexed{...}`: 👂 heard
+  - `forEachInIndexed{...}`: 🎓 known
   - `Arrays<T>`: 🙋 explained
   - Primitive arrays: 🙋 explained
   - `stdout`: 🙋 explained
@@ -160,18 +160,18 @@
   - `Thread`: 🖐️ used
   - `ExecutorServices`: 👂 heard
   - Synchronizations: 🎓 known
-  - Atomic types: 👂 heard
-  - Atomic operations: 👂 heard
-  - Dead locks: 👂 heard
-  - Race conditions: 👂 heard
+  - Atomic types: 🙋 explained
+  - Atomic operations: 🙋 explained
+  - Dead locks: 🙋 explained
+  - Race conditions: 🙋 explained
   - Live locks: 👂 heard
   - Starvation: 👂 heard
   - Synchronized collections: 👂 heard
-  - Kotlin Coroutines
-  - `runBlocking`
-  - `launch`
-  - `async`
-  - `suspend` functions
+  - Kotlin Coroutines: 🖐️ used
+  - `runBlocking`: 🖐️ used
+  - `launch`: 🖐️ used
+  - `async`: 🖐️ used
+  - `suspend` functions: 🖐️ used
   - Structures concurrency
   - Coroutine Context
   - `Dispatcher`

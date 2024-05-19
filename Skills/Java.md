@@ -98,18 +98,18 @@
 - Multithreading
   - `Thread`: 🙋 explained
   - `Runnable`: 🙋 explained
-  - `Semaphore`: 👂 heard
-  - `Lock`: 👂 heard
-  - Atomic types and operations: 👂 heard
-  - Monitors
-  - `synchronized` methods: 👂 heard
-  - `synchronized` blocks: 👂 heard
-  - Synchronized collections: 👂 heard
-  - Dead locks, race conditions: 👂 heard
+  - `Semaphore`: 🙋 explained
+  - `Lock`: 🙋 explained
+  - Atomic types and operations: 🙋 explained
+  - Monitors: 🙋 explained
+  - `synchronized` methods: 🙋 explained
+  - `synchronized` blocks: 🙋 explained
+  - Synchronized collections: 🙋 explained
+  - Dead locks, race conditions: 🙋 explained
   - Date/Time API: 🖐️ used
 - Spring Framework
-  - Spring Core: 🖐️ used
-  - Spring Boot: 🖐️ used
-  - Spring MVC: 🖐️ used
-  - Spring Data: 🖐️ used
+  - Spring Core: 📢 talked
+  - Spring Boot: 📢 talked
+  - Spring MVC: 📢 talked
+  - Spring Data: 📢 talked
   - Spring Security: 🖐️ used

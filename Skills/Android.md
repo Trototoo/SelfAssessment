@@ -2,22 +2,22 @@
 
 - Android Basics
   - Android Studio: 🙋 explained
-  - Android project structure: 🎓 known
-  - Activity lifecycle: 🎓 known
-  - Fragments: 👂 heard
-  - Intents: 🎓 known
-  - Views and ViewGroups: 🎓 known
+  - Android project structure: 🙋 explained
+  - Activity lifecycle: 🙋 explained
+  - Fragments: 🙋 explained
+  - Intents: 🙋 explained
+  - Views and ViewGroups: 🙋 explained
   - LinearLayout: 🙋 explained
   - RelativeLayout: 🙋 explained
   - ConstraintLayout: 🙋 explained
-  - FrameLayout: 🖐️ used
-  - TableLayout: 🖐️ used
-  - res/values: 🖐️ used
-  - strings.xml: 🖐️ used
-  - colors.xml: 🖐️ used
-  - styles.xml: 🖐️ used
+  - FrameLayout: 🙋 explained
+  - TableLayout: 🙋 explained
+  - res/values: 🙋 explained
+  - strings.xml: 🙋 explained
+  - colors.xml: 🙋 explained
+  - styles.xml: 🙋 explained
   - R class: 🙋 explained
-  - Dependency Injection: 🖐️ used
+  - Dependency Injection: 🙋 explained
 - User Interface (UI)
   - XML layout files: 🙋 explained
   - TextView: 🙋 explained
@@ -34,36 +34,36 @@
   - Themes and styles: 🖐️ used
   - Animations and transitions: 👂 heard
 - Intents and Broadcast Receivers
-  - Explicit intents: 🖐️ used
-  - Implicit intents: 🖐️ used
-  - Passing data between activities: 🖐️ used
-  - Starting activities for result: 🖐️ used
-  - LocalBroadcastManager: 👂 heard
-  - System broadcasts: 👂 heard
-  - Custom broadcasts: 👂 heard
+  - Explicit intents: 🙋 explained
+  - Implicit intents: 🙋 explained
+  - Passing data between activities: 🙋 explained
+  - Starting activities for result: 🙋 explained
+  - LocalBroadcastManager: 🎓 known
+  - System broadcasts: 🎓 known
+  - Custom broadcasts: 🎓 known
 - Data Storage
-  - SharedPreferences: 👂 heard
-  - Internal storage: 🎓 known
-  - External storage: 🎓 known
-  - SQLite database: 👂 heard
-  - Room persistence library: 👂 heard
-  - Content providers: 👂 heard
+  - SharedPreferences: 🙋 explained
+  - Internal storage: 🙋 explained
+  - External storage: 🙋 explained
+  - SQLite database: 🎓 known
+  - Room persistence library: 🎓 known
+  - Content providers: 🎓 known
 - Networking
-  - HttpURLConnection: 👂 heard
-  - OkHttp: 👂 heard
+  - HttpURLConnection: 🖐️ used
+  - OkHttp: 🖐️ used
   - Retrofit: 👂 heard
-  - JSON parsing: 👂 heard
-  - JSONObject: 👂 heard
-  - Gson: 👂 heard
-  - AsyncTask
-  - Threading
+  - JSON parsing: 🎓 known
+  - JSONObject: 🎓 known
+  - Gson: 🎓 known
+  - AsyncTask: 👂 heard
+  - Threading: 👂 heard
   - Background services: 👂 heard
 - Services and Background Tasks
-  - Service lifecycle: 👂 heard
-  - IntentService: 👂 heard
+  - Service lifecycle: 🙋 explained
+  - IntentService: 🙋 explained
   - JobScheduler
-  - WorkManager
-  - BroadcastReceiver: 👂 heard
+  - WorkManager: 🖐️ used
+  - BroadcastReceiver: 🖐️ used
   - AlarmManager
   - Foreground services
 - Permissions
@@ -71,11 +71,11 @@
   - Permission groups: 🖐️ used
   - Checking and requesting permissions: 🖐️ used
 - Multimedia
-  - Playing audio: 👂 heard
-  - Playing video: 👂 heard
-  - Recording audio: 👂 heard
-  - Camera API: 👂 heard
-  - ExoPlayer
+  - Playing audio: 🙋 explained
+  - Playing video: 🙋 explained
+  - Recording audio: 🖐️ used
+  - Camera API: 🖐️ used
+  - ExoPlayer: 🙋 explained
 - Location and Maps
   - Google Maps API: 👂 heard
   - Location services: 👂 heard

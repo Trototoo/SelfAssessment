@@ -55,9 +55,9 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore: 👂 heard
-  - Mutex: 👂 heard
-  - Spin Lock
+  - Semaphore: 🙋 explained
+  - Mutex: 🙋 explained
+  - Spin Lock: 🙋 explained
 - JavaScript & Node.js specific
   - Timers
   - `setImmediate`
@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics: 🙋 explained
   - High resolution clock
   - Callback hell
   - Promise hell
